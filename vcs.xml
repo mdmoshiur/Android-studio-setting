@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/surajitshome/Uploading-SQLite-Database-to-Google-Drive-in-Android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/googlearchive/drive-android-quickstart.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Android" />
+    <option name="cloneParentDir" value="G:\" />
   </component>
 </application>
